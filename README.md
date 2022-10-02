@@ -7,10 +7,10 @@ npm i
 
 ## make a copy of 'env. example' file
 ```
-rename that file to 'env.'
+rename file to 'env.'
 ```
 
-## fill file with necessary data
+## fill file with all necessary data
 ```
 SERVER_DOMAIN=
 SERVER_PROTOCOL=
